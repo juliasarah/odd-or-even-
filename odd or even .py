@@ -1,4 +1,4 @@
-num = 8
+num = raw_input("")
 
 
 if num % 2 == 0:
